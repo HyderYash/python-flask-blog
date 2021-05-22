@@ -1,19 +1,19 @@
 {
     "params":{
         "local_server": "True",
-        "local_uri": "mysql://local_user:local_pass@localhost/blogappdb",
-        "prod_uri": "mysql://local_user:local_pass@localhost/blogappdb",
-        "fb_url": "https://www.facebook.com/deliciouspakwan",
-        "tw_url": "https://www.twitter.com/pakwandelicious",
+        "local_uri": "############################################",
+        "prod_uri": "######################################b",
+        "fb_url": "##########################",
+        "tw_url": "################################",
         "gh_url": "https://github.com/HyderYash",
         "blog_name": "Delicious Pakwan",
-        "gmail_user": "yashsharma.karate@gmail.com",
-        "gmail_password": "ChintuPinki@1234",
+        "gmail_user": "##############",
+        "gmail_password": "################",
         "about_text": "Hi Folks! This is Yash Sharma. This is my channel regarding games and sports. Please Like, Subscribe and Comment on my Channel and Videos..",
         "no_of_posts": 2,
-        "login_image": "assets/img/login.svg",
-        "admin_user": "yash",
-        "admin_password": "yash@1234",
-        "upload_location": "C:\\Projects\\PyCharm-Projects\\Flask-tut\\static"
+        "login_image": "C:\\your\\path\\to-your\\directory",
+        "admin_user": "your-username",
+        "admin_password": "your-password",
+        "upload_location": "C:\\your\\path\\to-your\\directory"
     }
 }
